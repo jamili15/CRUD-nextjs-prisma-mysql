@@ -18,4 +18,6 @@ model Todo {
   title       String
   isCompleted Boolean
   createdAt   DateTime @default(now())
+
+  @@map("todos")
 }

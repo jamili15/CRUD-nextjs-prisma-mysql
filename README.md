@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## install prisma
 
 // 1st todo is npm i prisma --save-dev
-// 2nd todo is npx prisma init --datasource-provider mongodb
-// ? optional npm install @prisma/client@latest
+// 2nd todo is npx prisma init --datasource-provider mysql
 // 3rd todo is npx prisma db push
+// ? optional npm install @prisma/client@latest
 // 4th todo is npx prisma generate
